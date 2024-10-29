@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Esto ejecuta el workflow diariamente a la medianoche
-  workflow_dispatch:  # Permite ejecutar manualmente el workflow desde la interfaz de GitHub
+    - cron: "0 0 * * *"  # Ejecuta el workflow diariamente a la medianoche
+  workflow_dispatch:  # Permite ejecutar manualmente el workflow
 
 jobs:
   build:
@@ -13,23 +13,25 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generar gráfico de serpiente
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
-          github_user_name: santiromero1
-          outputs: dist/snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Subir gráfico generado
         uses: actions/upload-artifact@v2
         with:
           name: snake-animation
-          path: dist/snake.svg
+          path: dist/
 
       - name: Agregar gráfico al perfil
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p assets
-          mv dist/snake.svg assets/snake.svg
+          mv dist/github-snake.svg assets/snake.svg
           git add assets/snake.svg
-          git commit -m "Generar nueva animación de contribución de serpiente"
+          git commit -m "Actualizar animación de contribución de serpiente"
           git push
