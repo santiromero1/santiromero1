@@ -17,15 +17,7 @@
 - 🤓 Always `learning new things`.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-	
-## 🐍 A Snake Eating my Contributions Graph
-
-<p align="center">
-  <img src="https://github.com/santiromero1/santiromero1/blob/output/github-snake.svg" alt="Snake animation" />
-</p>
-
-<hr>
-	
+		
 ## 🧑🏼‍💻 &nbsp;Programming Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
