@@ -2,19 +2,19 @@
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in web development, design, leveraging technology for optimization, and data science.
 
-- 🎓 I’m currently studying `Digital Tecnology` in `Universidad Torcuato Di Tella`
+- 🎓 I’m currently studying `Digital Technology` at `Universidad Torcuato Di Tella`, where I'm enhancing my skills across various tech fields such as development, optimization, and AI, alongside a solid foundation in business, neuroscience, and design.
+  
+- 💼 I am also working as an intern at `Universidad Torcuato Di Tella`, developing a web application in a full-stack capacity.
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on `innovative projects` that leverage data analysis, software development, or AI to create impactful solutions. I aspire to work on projects where I can build something visual that addresses real problems, combining software development and design.
 
 - 💻 I love using Software as a `Solution` for every `Problem`.
   
-- 🤓 Always `learning new things`.
-
-- 🤓 Always `learning new things`.
+- 🤓 Always `learning new things`. I am committed to continuous growth and improvement.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		
