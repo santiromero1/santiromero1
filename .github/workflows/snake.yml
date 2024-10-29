@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Ejecuta esto diariamente
+    - cron: "0 0 * * *"  # Ejecuta diariamente
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
       - name: Generar gráfico de serpiente
         uses: Platane/snk@v2
         with:
-          github_user_name: santiromero1  # Cambia esto por tu usuario
+          github_user_name: santiromero1
           outputs: dist/snake.svg
 
       - name: Subir gráfico generado
@@ -28,8 +28,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mv dist/snake.svg ./assets/snake.svg
+          mkdir -p assets
+          mv dist/snake.svg assets/snake.svg
           git add assets/snake.svg
           git commit -m "Generar nueva animación de contribución de serpiente"
           git push
-
