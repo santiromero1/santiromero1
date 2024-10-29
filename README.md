@@ -52,7 +52,6 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-	https://www.linkedin.com/in/santiago-romero-ant%C3%B3n/
 <a href = "mailto: romerosantiago2012@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/santiago-romero-ant%C3%B3n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <a href="https://www.instagram.com/santiromero.a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
