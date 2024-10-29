@@ -21,7 +21,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-    <img src="https://github.com/santiromero1/santiromero1/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <img src="https://github.com/santiromero1/santiromero1/blob/output/github-snake.svg" alt="Snake animation" />
 </p>
 
 <hr>
