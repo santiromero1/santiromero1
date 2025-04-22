@@ -51,7 +51,7 @@
 
 ## 🎨 &nbsp;Design & Prototyping
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Framer](https://img.shields.io/badge/framer-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Framer](https://img.shields.io/badge/framer-0055FF.svg?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
 
 ## 🔧 &nbsp;Hardware & IoT
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)&nbsp;
